@@ -1,0 +1,7 @@
+Arduino Uno
+HC-SR04 Mesafe Sensörü
+Servo Motor
+330 Ohm Direnç
+Breadboard
+LED
+Jumper Kablolar
